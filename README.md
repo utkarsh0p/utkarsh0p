@@ -1,23 +1,25 @@
 # 💫 About Me:
 ### Hi there 👋 I'm Utkarsh!
-
-🔭 I’m currently working on:  
-A full-stack web project using **Nextjs**, **React**, **Tailwind CSS**, and smooth **GSAP animations**.
-
-🤝 I’m looking for help with:  
-Mastering **data structures and algorithms** and building high-performance web applications.
-
-🌱 I’m currently learning:  
-- Nextjs ☕  
-- React ⚛️  
-- C++ for DSA 💻  
-- Animation libraries for sleek UI 🎨=
-- 
-⚡ Fun fact:  
-I once spent hours fixing a bug — turned out to be a missing semicolon 😅  
-Also, I enjoy turning **coffee + code** into cool projects 🚀
-
 ---
+
+## 🤝 I’m looking for help with:
+**Mastering Data Structures and Algorithms**  
+**Building high-performance full-stack applications**  
+---
+
+## 🌱 I’m currently learning:
+- ⚛ **React.js** (Frontend)
+- 🟩 **Node.js**, **Express.js** (Backend)
+- ☁️ **Appwrite** (BaaS)
+- 💻 **C++** for DSA & problem-solving
+- ✨ Animation Libraries for sleek UI (Framer Motion, GSAP)
+---
+
+## ⚡ Fun fact:
+I once spent hours fixing a bug...  
+➡️ **It was just a missing semicolon** 😅
+
+Also, I enjoy turning ☕ + 💻 into **cool side projects** 🚀
 
 > 📫 Let's connect!  
 > 💻 Check out my projects and feel free to reach out or collaborate!
